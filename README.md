@@ -1,6 +1,6 @@
 # webpd--p5.js
 
-a simple example combining webpd and p5.js
+a simple example combining [webpd](https://github.com/sebpiq/WebPd) and [p5.js](https://p5js.org)
 
 ## credits
 
